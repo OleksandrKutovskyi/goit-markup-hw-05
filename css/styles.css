@@ -713,6 +713,10 @@ img {
     fill: #4d5ae5;
 }
 
+.review-form-comment-wrapper {
+    margin-bottom: 16px;
+}
+
 .review-form-comment {
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 4px;
